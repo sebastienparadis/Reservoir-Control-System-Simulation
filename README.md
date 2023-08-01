@@ -1,18 +1,22 @@
 # Reservoir-Control-System-Simulation
 
-**Hardware Feasibility**
+### Hardware Feasibility
 
-<img width="277" alt="image" src="https://github.com/sebastienparadis/Reservoir-Control-System-Simulation/assets/96848854/948f4990-132f-4fda-ac3a-2eee758f5ad1">
+![Feasibility_Demo](https://github.com/sebastienparadis/Reservoir-Control-System-Simulation/assets/96848854/cff90166-e769-493c-bcc9-deaf23c304ec)
 
-**Circuit Schematic**
 
-![CIRCUIT_SCHEMATIC](https://github.com/sebastienparadis/Reservoir-Control-System-Simulation/assets/96848854/7059248d-2669-4a97-a951-869c1a2b1e21)
+### Circuit Schematic
 
-**PCB Layout**
+![CIRCUIT_SCHEMATIC](https://github.com/sebastienparadis/Reservoir-Control-System-Simulation/assets/96848854/84636a58-de0b-4b26-a7ce-f824744db146)
 
-![PCB_LAYOUT](https://github.com/sebastienparadis/Reservoir-Control-System-Simulation/assets/96848854/eac2e66f-2784-4335-bd37-2b8af0fd41ee)
 
-**3D Visualization**
+### PCB Layout
 
-![3D_VISUAL_TOP_VIEW](https://github.com/sebastienparadis/Reservoir-Control-System-Simulation/assets/96848854/164cc790-d60c-48ee-9033-7754a9a02e9b)
-![3D_VISUAL_BOTTOM_VIEW](https://github.com/sebastienparadis/Reservoir-Control-System-Simulation/assets/96848854/755d1e96-078d-48d1-9c9b-6483e2962d00)
+![PCB_LAYOUT](https://github.com/sebastienparadis/Reservoir-Control-System-Simulation/assets/96848854/e2a31bcd-f84a-439b-bba3-547316a68810)
+
+
+### 3D Visualization
+
+![3D_VISUAL_TOP_VIEW](https://github.com/sebastienparadis/Reservoir-Control-System-Simulation/assets/96848854/0297fd62-4b72-45bd-b429-b8719d370917)
+
+![3D_VISUAL_BOTTOM_VIEW](https://github.com/sebastienparadis/Reservoir-Control-System-Simulation/assets/96848854/bdb64151-625e-486e-8db5-8ba8554dc815)
